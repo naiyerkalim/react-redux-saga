@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App using Redux-saga
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App with Redux](https://react-redux.js.org/introduction/getting-started).
 
 ## Available Scripts
 
